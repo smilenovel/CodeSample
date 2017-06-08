@@ -6,10 +6,6 @@
 
 对各种post进行处理，获取post的参数
 
-## Upload
-
-使用multer插件实现了post上传的功能。上传的文件会保存在uploads目录。
-
 ## Rest
 
 Rest 服务器的实现

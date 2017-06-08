@@ -6,6 +6,8 @@ let express = require('express');
 let http  = require('http');
 let app = express();
 let bodyParser = require('body-parser');
+let multer = require('multer');
+let upload = multer();
 //use ./public folder as static file folder
 app.use(express.static(__dirname+"/public"));
 
