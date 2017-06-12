@@ -5,7 +5,3 @@
 ## ./Multipart
 
 使用Multer对multipart/form-data类型的post进行处理
-
-## ./Upload
-
-使用Multer处理文件上传
